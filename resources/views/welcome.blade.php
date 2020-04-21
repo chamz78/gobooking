@@ -1,0 +1,1 @@
+Copyright © 2020 by Wp Designer Buddy <div class="f-visa"><img src="https://tomap.travelerwp.com/wp-content/themes/traveler2.5/v2/images/svg/ico_paymethod.svg" alt="" class="img-responsive"></div>
